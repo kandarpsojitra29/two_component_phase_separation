@@ -7,8 +7,9 @@ This repository contains scripts for generating initial configuration and runnin
 ## Generating initial configuration
 ### 1) Create the initial configuration using generating_lattice.py
 
-> Usage: 
+''' 
 python generating_lattice.py
+'''
 
 Required inputs: seq.seq (contains sequence of two homopolymer); stats_module.dat (contains mass, charge, sigma, and lambda for each monomer)
 
