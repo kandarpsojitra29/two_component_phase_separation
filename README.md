@@ -66,3 +66,10 @@ python runfile.py box2slab_extend.gsd
 - restart_BB_0.000.gsd: Restart file.
 - run_BB_0.000.log: Log file.
 - last_0.0.gsd: Last frame of the simulation.
+
+<ins>Description:</ins>
+The code performs simulations by scanning a specific interaction strength over a defined range.
+
+## Reference:
+
+Welles & Sojitra et al., *Determinants that enable disordered protein assembly into discrete condensed phases*. (Nat. Chem. 2024), https://doi.org/10.1038/s41557-023-01423-7 
